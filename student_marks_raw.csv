@@ -1,0 +1,204 @@
+student_id,name,class,section,Maths,Physics,Chemistry,English,Computer_Science,attendance_pct
+S0001,Meera Gupta,10,b ,n/a,0,60,45,37,98.9
+S0002,rohan das,12th,B,43,77,37,98,88,63.1
+S0003,Pooja Yadav,11th,A,45,73,35,70,93,92.8
+S0004,Vivaan Patel,12th, C,87,0,44,66,80,62.5
+S0005,Kunal Das,Class 11, C,78,52,31,63,98,97.9
+S0006,Vivaan Jha,12th,a,80,81,56,36,98,56.1
+S0007,Diya Yadav,11,A,92,91,73,50,97,96.1
+S0008,Aditya Patel,Class 12,B,75,94,54,59,33,76.3
+S0009,RIYA YADAV, 10 ,B,73,30,40,79,91,83.6
+S0010,Neha Mishra,Class 10,B,0,48,90,,97,99.4
+S0010,Neha Mishra,Class 10,B,0,48,90,,97,99.4
+S0011,Priya Kumar,Class 12,C,99,75,96,94,0,82.4
+S0012,  Ishaan Das  ,12th,b ,91,37,42,38,94,67.5
+S0013,Ananya Patel,11th,B,87,86,84,45,76,98.5
+S0014,Pooja Gupta,Class 10, C,85,83,0,32,67,99.3
+S0015,DIYA KUMAR,11,a,63,95,41,53,32,58.8
+S0016,Neha Sharma,Class 12,C,46,44,53,69,87,
+S0017,Simran Singh, 10 ,A,85,80,57,47,N/A,74.4
+S0018,Rahul Chatterjee,12, C,67,64,72,150,0,67.6
+S0019,Aditya Kumar, 10 ,b ,35,59,49,79,93,83.9
+S0020,Kunal Patel,12,b ,94,32,N/A,43,36,
+S0021,  Rahul Das  , 10 ,C,39,56,88,91,35,58.5
+S0022,Saanvi Roy, 10 ,A,92,57,96,45,69,55.8
+S0023,Neha Kumar,10,b ,41,76,95,76,92,97.7
+S0024,Kunal Yadav,10th,A,71,45,31,77,39,67.4
+S0025,Saanvi Chatterjee,10th,a,95,84,81,100,82,84.0
+S0026,Rohan Gupta,Class 11,C,62,63,91,51,94,64.9
+S0027,Rohan Das,Class 10,C,41,55,82,56,37,71.2
+S0028,Priya Verma, 10 ,a,87,32,90,39,97,66.2
+S0029,Ishaan Patel,11,b ,105,34,46,85,39,63.6
+S0029,Ishaan Patel,11,b ,105,34,46,85,39,63.6
+S0030,Simran Kumar,Class 11, C,61,0,69,83,84,56.5
+S0031,Priya Sharma,12th,A,56,54,67,53,37,72.7
+S0032,vivaan patel,11th,C,44,72,-,77,150,73.9
+S0033,Arjun Yadav,Class 11,A,36,99,76,82,,91.2
+S0034,Meera Yadav,12,C,70,105,89,62,46,91.1
+S0035,Ananya Yadav,Class 11,b ,40,50,34,50,39,59.3
+S0036,Ananya Gupta,12th,B,98,45,65,63,61,95.8
+S0037,Ananya Das,12, C,89,90,N/A,59,54,94.0
+S0038,Aarav Verma,12th,C,150,NA,31,77,0,57.8
+S0039,Simran Verma,11th,C,82,83,N/A,55,30,60.1
+S0040,  Kabir Gupta  , 10 ,A,77,74,38,55,35,57.4
+S0041,Kabir Chatterjee, 10 ,b ,55,57,50,61,54,89.1
+S0042,Neha Das,11th,a,69,77,0,87,88,73.0
+S0043,Neha Das,10, C,46,95,78,33,44,77.1
+S0044,Ananya Verma,Class 12,B,71,88,91,94,55,97.1
+S0045,Diya Verma,10th,a,96,43,80,78,76,65.4
+S0046,Rahul Kumar,12th,C,30,67,-,,30,78.5
+S0047,Rohan Singh,11,B,31,49,48,81,37,70.8
+S0048,Pooja Singh,10,A,105,37,100,82,94,82.6
+S0049,Pooja Patel,Class 11, C,89,52,59,63,100,96.3
+S0050,Priya Verma,Class 10,C,60,50,79,98,30,87.6
+S0051,Aditya Roy,10,A,44,74,33,35,38,64.0
+S0052,Arjun Verma,10,A,34,41,66,56,150,57.2
+S0053,Rahul Jha,12th,A,-5,36,41,105,0,86.3
+S0054,Rahul Kumar,10th,B,59,40,43,81,41,71.7
+S0055,Kabir Mishra,12,a,46,34,49,100,86,65.4
+S0056,Rahul Singh,12th,B,49,96,54,43,55,90.8
+S0057,Ishaan Kumar,Class 11,A,31,58,150,105,85,84.1
+S0058,Ananya Chatterjee, 10 ,a,70,83,50,0,53,55.5
+S0059,Diya Das,12,b ,74,99,32,96,88,72.7
+S0060,riya chatterjee,Class 11,A,31,75,68,97,80,96.8
+S0061,Simran Patel,10th, C,82,100,90,64,84,91.2
+S0062,Meera Jha,12th,A,76,79,71,,56,66.3
+S0063,Neha Yadav, 10 ,b ,51,41,68,97,44,65.5
+S0064,Neha Gupta, 10 ,B,99,50,93,77,39,-10
+S0065,Meera Verma,11,A,57,73,73,56,62,68.2
+S0066,Diya Das, 10 ,A,72,46,35,N/A,105,76.4
+S0067,Simran Roy,10,B,35,52,34,31,69,68.6
+S0068,Vivaan Jha,10,a,-,49,43,49,31,98.5
+S0069,Aarav Kumar, 10 , C,53,48,93,,31,85.9
+S0070,Kabir Jha,Class 11,b ,86,44,83,87,72,98.8
+S0071,Aarav Gupta,11th,a,61,59,30,50,35,95.1
+S0072,Simran Chatterjee,Class 11,b ,40,78,-,89,31,58.9
+S0073,Rahul Kumar,Class 12,a,94,54,67,81,61,71.8
+S0074,Rohan Yadav,Class 11,b ,32,92,65,NA,,80.1
+S0075,Aditya Roy,10,C,70,94,50,58,75,56.3
+S0076,pooja sharma,Class 10, C,68,43,79,51,31,90.9
+S0077,riya patel, 10 ,A,39,59,48,53,48,n/a
+S0078,Meera Gupta,10th,a,91,37,57,45,76,65.7
+S0079,Kabir Sharma,11, C,32,n/a,66,82,47,65.4
+S0080,Pooja Kumar,Class 10,b ,69,96,37,66,93,89.3
+S0081,Riya Sharma,11th,b ,30,96,61,71,37,n/a
+S0082,Ananya Verma,Class 10,A,69,105,89,43,52,77.2
+S0083,Arjun Gupta,Class 10,B,89,32,83,34,76,70.1
+S0084,Meera Mishra,10th,b ,48,61,31,38,32,72.9
+S0085,Vivaan Sharma,Class 12, C,64,34,105,66,51,98.0
+S0086,Simran Gupta,12,C,82,41,88,79,88,N/A
+S0087,Rahul Das,Class 12,A,75,71,66,37,38,84.6
+S0088,Ishaan Das,12th,B,83,55,96,90,46,73.5
+S0089,Rohan Mishra,11th,b ,44,88,75,-,78,68.7
+S0090,Aditya Yadav,12,C,56,150,93,69,96,74.4
+S0091,Neha Sharma,12,A,82,49,92,73,41,99.0
+S0092,Saanvi Patel,Class 12, C,50,56,53,43,,N/A
+S0093,ISHAAN ROY,Class 10,a,100,98,55,50,33,78.5
+S0094,  Vivaan Chatterjee  ,11, C,60,64,38,105,35,66.2
+S0095,Meera Sharma,Class 11,a,62,38,58,105,51,98.7
+S0096,Simran Mishra,12,A,84,61,,73,46,92.6
+S0097,Ananya Gupta, 10 ,a,56,56,46,86,61,60.6
+S0098,Diya Patel,11, C,48,41,59,43,94,87.3
+S0099,Arjun Kumar,11th, C,46,76,-,61,42,96.1
+S0100,Vivaan Roy,10th,B,78,52,93,85,30,84.5
+S0101,Vivaan Singh,10th,B,74,80,58,84,94,83.3
+S0102,Kunal Chatterjee, 10 ,B,35,63,60,37,41,61.1
+S0103,Ananya Sharma,11, C,74,48,45,51,89,-
+S0104,Vivaan Kumar,10th,a,44,76,0,72,43,77.0
+S0105,Aditya Chatterjee,12th, C,62,0,67,97,51,69.0
+S0106,Riya Yadav,10th,C,60,81,93,68,48,74.9
+S0107,Neha Jha,Class 12,A,34,95,37,NA,n/a,85.4
+S0108,Rahul Jha,12th,B,81,37,68,77,68,83.5
+S0109,Aditya Gupta,11th,b ,83,86,53,44,42,86.9
+S0110,Ishaan Patel,12th,A,82,47,44,95,80,63.6
+S0111,Vivaan Mishra,11,A,57,47,55,75,73,55.5
+S0112,Rahul Yadav,10th,A,75,105,n/a,,39,79.9
+S0113,Rohan Roy,12th,C,150,92,34,80,87,82.5
+S0114,Rohan Roy,Class 10,C,89,75,-,35,48,77.5
+S0115,  Rohan Patel  ,Class 10,a,42,60,39,76,74,70.0
+S0116,Pooja Das,Class 10,C,-,81,68,48,100,58.3
+S0117,Saanvi Roy,Class 11, C,84,92,62,,81,67.7
+S0118,Vivaan Gupta,10,b ,N/A,N/A,33,33,73,90.8
+S0119,Arjun Kumar,10,C,70,NA,48,75,98,61.9
+S0120,Diya Patel,10th, C,100,65,-,42,76,73.0
+S0121,Ishaan Sharma,Class 10,C,76,50,61,57,79,95.7
+S0122,Arjun Chatterjee,Class 10,b ,78,-5,85,71,68,99.2
+S0123,Diya Gupta,11,C,30,50,NA,76,86,
+S0124,Aarav Gupta,10th,A,51,83,80,34,105,86.4
+S0125,aditya verma, 10 ,A,52,99,75,39,58,63.0
+S0126,Rahul Sharma,Class 12,C,-,99,82,64,83,89.2
+S0127,Aarav Singh,11th,b ,78,44,n/a,71,70,76.3
+S0128,Simran Mishra,12th,a,75,97,71,58,63,87.5
+S0129,Rohan Verma,Class 12,b ,56,60,88,35,84,66.3
+S0130,Rahul Kumar,10th,a,67,87,52,46,60,91.1
+S0130,Rahul Kumar,10th,a,67,87,52,46,60,91.1
+S0131,Diya Sharma,11th,b ,65,63,93,84,77,71.9
+S0132,Kunal Chatterjee,Class 11,B,79,54,77,39,80,n/a
+S0133,Neha Patel,Class 11,B,38,NA,N/A,100,88,58.5
+S0134,Priya Roy,12, C,-,47,48,30,96,66.5
+S0135,kunal chatterjee, 10 ,a,99,36,89,48,55,
+S0136,Meera Sharma,Class 11,B,56,88,-,45,39,55.6
+S0137,Ananya Chatterjee,Class 12,B,98,56,55,83,86,57.5
+S0138,Saanvi Singh,11th,b ,49,100,-,49,99,61.7
+S0139,VIVAAN YADAV,12th,b ,39,93,55,99,90,93.0
+S0140,Ishaan Sharma,10th,A,52,61,44,38,100,n/a
+S0141,Rohan Mishra,11,C,50,41,91,43,93,69.6
+S0142,Diya Yadav,Class 11,b ,56,98,n/a,56,51,56.4
+S0143,Ishaan Verma,Class 10,B,95,61,42,52,89,69.3
+S0144,Ananya Gupta,12,B,74,58,38,150,38,93.1
+S0145,Riya Roy,11th, C,93,68,51,95,98,58.1
+S0146,Ananya Singh,11th,B,93,36,73,41,73,74.2
+S0147,Ishaan Jha,Class 12,a,48,75,34,64,82,60.4
+S0148,Kabir Mishra,10th,B,58,80,94,NA,43,91.4
+S0149,Simran Patel,12th,a,47,83,86,69,78,57.7
+S0150,Aarav Sharma,12,b ,78,49,34,30,48,77.9
+S0151,Diya Chatterjee,11th,A,83,40,78,76,50,57.2
+S0152,Vivaan Gupta,12, C,69,79,53,90,86,71.3
+S0153,Ishaan Singh,Class 12,b ,82,70,98,82,76,91.5
+S0154,Aarav Sharma,12th,C,75,61,42,82,69,87.5
+S0155,Meera Mishra,Class 11,B,48,66,38,30,85,67.3
+S0156,Rohan Singh,10,C,34,78,79,38,95,65.1
+S0157,  Aditya Yadav  ,10,C,105,94,0,58,72,80.0
+S0158,SIMRAN PATEL,10th,a,77,41,95,37,72,83.9
+S0159,Neha Singh,10,a,51,105,55,67,32,55.6
+S0160,Diya Das,10th,C,69,-,43,76,40,76.4
+S0161,Diya Das,Class 11, C,32,65,85,50,47,
+S0162,Vivaan Singh,12,C,73,92,30,78,46,80.7
+S0163,Aditya Roy, 10 ,B,81,60,90,93,60,55.2
+S0164,VIVAAN SINGH,10,a,36,n/a,82,32,42,62.3
+S0165,ARJUN SHARMA,12th,A,94,n/a,67,0,56,82.6
+S0166,Aditya Patel,10,C,65,48,,35,57,73.3
+S0167,Aditya Sharma,12th,A,47,37,86,-,42,97.6
+S0168,Meera Kumar, 10 ,b ,32,75,60,N/A,84,79.2
+S0169,Simran Singh,11th, C,41,31,45,86,66,150
+S0170,ROHAN CHATTERJEE,Class 12,C,39,31,44,95,87,68.6
+S0171,Ishaan Jha,10,a,58,74,31,41,69,61.5
+S0172,Aditya Roy,10,C,31,75,47,77,44,62.5
+S0173,Priya Singh,11, C,,78,33,44,41,96.5
+S0174,Priya Verma,Class 11,B,73,58,78,97,95,58.7
+S0175,Rohan Verma,Class 12,A,56,38,91,95,34,77.5
+S0176,meera patel,12th,B,0,40,66,54,55,120
+S0177,Rahul Patel,Class 10,B,90,88,105,32,n/a,91.5
+S0178,Arjun Gupta,12,C,83,96,37,40,82,65.0
+S0179,KUNAL VERMA,10th,A,66,47,68,95,93,91.0
+S0180,Aditya Roy,Class 12,B,62,97,37,-,73,84.1
+S0181,ANANYA MISHRA,Class 12,a,47,76,76,57,95,73.9
+S0182,Simran Yadav,Class 11,B,91,50,67,61,55,84.2
+S0183,Vivaan Singh,12th,a,-5,NA,52,-5,41,70.1
+S0184,Pooja Kumar,10th,B,63,63,72,54,36,N/A
+S0185,POOJA VERMA, 10 ,a,59,90,54,88,84,n/a
+S0186,Neha Roy,Class 10,C,63,89,69,69,41,65.6
+S0187,Aarav Singh,12th,b ,76,69,38,38,58,97.2
+S0188,meera roy,10th,B,34,46,34,73,80,88.1
+S0189,Rahul Verma,11,b ,82,84,61,41,79,82.2
+S0190,Rohan Patel,11,b ,n/a,90,71,73,37,120
+S0191,Meera Singh,Class 11,C,77,66,82,61,36,89.0
+S0192,Arjun Mishra,Class 10,b ,NA,70,n/a,88,89,64.6
+S0193,Meera Sharma,Class 10,C,39,36,81,78,90,92.7
+S0194,Rahul Verma,11, C,59,76,45,89,46,78.6
+S0195,Ananya Patel,Class 10,C,85,39,68,53,31,98.0
+S0196,Kabir Sharma,12,b ,n/a,32,57,57,33,66.7
+S0197,NEHA SHARMA,11th,B,60,52,55,44,57,96.6
+S0198,Aditya Verma,12th,a,48,57,61,82,69,58.8
+S0199,Kabir Mishra,11th,a,90,55,94,79,75,86.7
+S0200,  Simran Sharma  ,Class 11,b ,81,50,30,76,71,70.3
